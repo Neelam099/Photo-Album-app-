@@ -1,7 +1,4 @@
 # photo-album-app
 A photo album website with Django &amp;  Images on AWS S3 Buckets.
 
-Tutorial on youtube: https://youtu.be/sSquD2u5Ie0
-Muilti image upload tutorial: https://youtu.be/Ws7Wy5EHaXY
-
-![DEMO](../master/static/images/demo.jpg)
+![image](https://user-images.githubusercontent.com/125033123/219344242-798de25e-a97d-40b0-b982-45ef96897080.png)
